@@ -1,0 +1,8 @@
+d =dict(name="hi" , age=20 ,x=4011)
+print(d)
+print(d.keys())
+print(d.items())
+print(d.values())
+d =dict(name="hi" , age=20 ,x=4011)
+d.update(name="om",age=23,x=4649)
+print(d)
